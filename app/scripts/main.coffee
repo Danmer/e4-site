@@ -29,7 +29,7 @@ do (window, $, _, moment) ->
 				members: ->
 				matches: ->
 					$content.find('time').each ->
-						$(this).text(moment($(this).text(), 'DD.MM.YYYY HH:MM').fromNow())
+						$(this).text(moment($(this).text(), 'DD.MM.YYYY HH:mm Z').fromNow())
 					$content.find('.result').on 'click', ->
 						$(this).next().slideToggle()
 				about: ->
