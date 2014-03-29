@@ -28,8 +28,9 @@ do (window, $, _, moment) ->
 			init =
 				members: ->
 				matches: ->
-					$content.find('time').each ->
-						$(this).text(moment($(this).text(), 'DD.MM.YYYY HH:mm Z').fromNow())
+					# format dates
+					#$content.find('time').each ->
+						#$(this).text(moment($(this).text(), 'DD.MM.YYYY HH:mm Z').fromNow())
 					$content.find('.result').on 'click', ->
 						$(this).next().slideToggle()
 				about: ->
