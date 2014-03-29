@@ -1,0 +1,97 @@
+<!DOCTYPE html><html class=no-js><head><meta charset=utf-8><title>Elite Four</title><meta name=description content="Elite Four team page"><link rel="shortcut icon" href=favicon.ico><link rel=stylesheet href=styles/main.css><body><div class=main><nav class=nav><ul><li><a href=#members>Members</a></li><li><a href=#matches>Clanwars</a></li><li><a href=#about>About</a></li></ul></nav><div class=content></div></div><div class=copyright>&copy; <a href=mailto:danmer.ekb@gmail.com>Danmer</a>, 2014</div><script type=text/template id=template-members><div class="members">
+				<ul>
+					<% _.forEach(members, function(member) { %>
+					<li>
+						<img src="images/members/<%= member.avatar %>" width="100" height="100" alt="avatar">
+						<div class="nick"><span class="flag <%= member.flag %>" title="<%= member.coutry %>"></span> <%= member.nick %></div>
+						<div class="name"><%= member.name %></div>
+						<div class="city"><%= member.city %></div>
+						<div class="birth"><%= member.birth %></div>
+						<div class="role"><%= member.role %></div>
+					</li>
+					<% }); %>
+				</ul>
+			</div></script><script type=text/template id=template-matches><div class="matches">
+				<strong>Official</strong>
+				<ul>
+					<% _.forEach(matchesByLeague.official, function(match) { if (!match.hidden) { %>
+					<li class="match <%= match.league.toLowerCase() %>">
+						<p class="teams">
+							<span class="team">
+								<span class="flag e4"></span>
+								E4
+							</span>
+							vs
+							<span class="team">
+								<span class="flag <%= match.flag %>"></span>
+								<%= match.opponent %>
+							</span>
+						</p>
+						<p class="date">
+							<time><%= match.date %></time>
+						</p>
+						<p class="result <%= match.result %>">
+							<span class="result-link"><%= match.result %></span>
+						</p>
+						<p class="details">
+							<% if (match.details && match.details.length) { %>
+								<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
+							<% } else { %>
+								no results
+							<% } %>
+						</p>
+					</li>
+					<% }}); %>
+				</ul>
+				<hr>
+				<strong>Practice</strong>
+				<ul>
+					<% _.forEach(matchesByLeague.pcw, function(match) { if (!match.hidden) { %>
+					<li class="match <%= match.league.toLowerCase() %>">
+						<p class="teams">
+							<span class="team">
+								<span class="flag e4"></span>
+								E4
+							</span>
+							vs
+							<span class="team">
+								<span class="flag <%= match.flag %>"></span>
+								<%= match.opponent %>
+							</span>
+						</p>
+						<p class="date">
+							<time><%= match.date %></time>
+						</p>
+						<p class="result <%= match.result %>">
+							<span class="result-link"><%= match.result %></span>
+						</p>
+						<p class="details">
+							<% if (match.details && match.details.length) { %>
+								<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
+							<% } else { %>
+								no results
+							<% } %>
+						</p>
+					</li>
+					<% }}); %>
+				</ul>
+			</div></script><script type=text/template id=template-about><div class="about">
+				<strong>Contacts</strong>
+				<p class="contacts"><%= about.contacts %></p>
+				<strong>History</strong>
+				<p class="history"><%= about.history %></p>
+				<div>
+					<% _.forEach(about.trophies, function(trophies, year) { %>
+						<% if (trophies.length) { %>
+							<div class="tropheis-list">
+								<strong><%= year %></strong>
+								<ul>
+									<% _.forEach(trophies, function(trophy) { %>
+										<li><%= trophy %></li>
+									<% }); %>
+								</ul>
+							</div>
+						<% } %>
+					<% }); %>
+				</div>
+			</div></script><script src=scripts/main.js></script><!-- Yandex.Metrika counter --><script type=text/javascript>if (window.location.hostname !== 'hostname' && window.location.hostname !== '127.0.0.1') { (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter24217321 = new Ya.Metrika({id:24217321, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); }</script><noscript><div><img src=//mc.yandex.ru/watch/24217321 style="position:absolute; left:-9999px" alt=""></div></noscript><!-- /Yandex.Metrika counter -->
