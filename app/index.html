@@ -57,12 +57,12 @@
 					<li class="match <%= match.league.toLowerCase() %>">
 						<p class="teams">
 							<span class="team">
+								<%= match.team %>
 								<span class="flag e4"></span>
-								E4
 							</span>
 							vs
 							<span class="team">
-								<span class="flag <%= match.flag %>"></span>
+								<span class="flag <%= match.opponent_flag %>"></span>
 								<%= match.opponent %>
 							</span>
 						</p>
@@ -89,12 +89,12 @@
 					<li class="match <%= match.league.toLowerCase() %>">
 						<p class="teams">
 							<span class="team">
+								<%= match.team %>
 								<span class="flag e4"></span>
-								E4
 							</span>
 							vs
 							<span class="team">
-								<span class="flag <%= match.flag %>"></span>
+								<span class="flag <%= match.opponent_flag %>"></span>
 								<%= match.opponent %>
 							</span>
 						</p>

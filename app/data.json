@@ -82,198 +82,214 @@
 		}
 	],
 	"matches": [
-		{	
+		{
 			"date": "25.05.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "aCt",
+			"opponent_flag": "eu",
 			"league": "official",
 			"type": "4v4",
 			"result": "open",
 			"hidden": false,
 			"details": []
-		},		
-		{	
+		},
+		{
 			"date": "11.05.2014",
-			"flag": "se",
+			"team": "E4",
 			"opponent": "[nEu]",
+			"opponent_flag": "se",
 			"league": "official",
 			"type": "4v4",
 			"result": "open",
 			"hidden": false,
 			"details": []
-		},		
-		{	
+		},
+		{
 			"date": "08.05.2014",
-			"flag": "ru",
+			"team": "E4",
 			"opponent": "102",
+			"opponent_flag": "ru",
 			"league": "official",
 			"type": "4v4",
 			"result": "open",
 			"hidden": false,
 			"details": []
-		},		
-		{	
+		},
+		{
 			"date": "04.05.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "ukn-",
+			"opponent_flag": "eu",
 			"league": "official",
 			"type": "4v4",
 			"result": "open",
 			"hidden": false,
 			"details": []
-		},		
-		{	
+		},
+		{
 			"date": "01.05.2014",
-			"flag": "pl",
+			"team": "E4",
 			"opponent": "dx-",
+			"opponent_flag": "pl",
 			"league": "official",
 			"type": "4v4",
 			"result": "open",
 			"hidden": false,
 			"details": []
-		},		
-		{	
+		},
+		{
 			"date": "28.04.2014",
-			"flag": "ru",
+			"team": "E4",
 			"opponent": "102",
+			"opponent_flag": "ru",
 			"league": "official",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/luminus/f66ca404-cf0d-11e3-a9e8-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/luminus/5e4cec1a-cf12-11e3-a9e8-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/luminus/f66ca404-cf0d-11e3-a9e8-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/luminus/5e4cec1a-cf12-11e3-a9e8-00259031fd90/tdm/1"
 			]
-		},		
-		{	
+		},
+		{
 			"date": "24.04.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "aCt",
+			"opponent_flag": "eu",
 			"league": "official",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/summary/luminus/29227bd6-cbde-11e3-b88b-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/summary/luminus/98880732-cbe0-11e3-b88b-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/summary/luminus/dbe01184-cbe3-11e3-b88b-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/summary/luminus/29227bd6-cbde-11e3-b88b-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/summary/luminus/98880732-cbe0-11e3-b88b-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/summary/luminus/dbe01184-cbe3-11e3-b88b-00259031fd90/tdm/1"
 			]
-		},		
-		{	
+		},
+		{
 			"date": "22.04.2014",
-			"flag": "se",
+			"team": "E4",
 			"opponent": "Of.",
+			"opponent_flag": "se",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-		                 "http://www.quakelive.com/r/profile/matches/Luminus/db70e0a8-ca4d-11e3-9aa5-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/9a53d266-ca51-11e3-9aa5-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/df490abe-ca54-11e3-9aa5-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/f30f8930-ca57-11e3-9aa5-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/db70e0a8-ca4d-11e3-9aa5-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/9a53d266-ca51-11e3-9aa5-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/df490abe-ca54-11e3-9aa5-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/f30f8930-ca57-11e3-9aa5-00259031fd90/tdm/1"
                     	]
-		},		
-		{	
+		},
+		{
 			"date": "17.04.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "ukn-",
+			"opponent_flag": "eu",
 			"league": "official",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/Luminus/5247e212-c670-11e3-92f1-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/e9a73364-c671-11e3-92f1-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/5247e212-c670-11e3-92f1-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/e9a73364-c671-11e3-92f1-00259031fd90/tdm/1"
 			]
-		},		
-		{	
+		},
+		{
 			"date": "17.04.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "(....",
+				"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "draw",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/Luminus/d5b2d8e8-c669-11e3-92f1-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/013a653c-c66d-11e3-92f1-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/d5b2d8e8-c669-11e3-92f1-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/013a653c-c66d-11e3-92f1-00259031fd90/tdm/1"
 			]
-		},		
-		{	
+		},
+		{
 			"date": "14.04.2014",
-			"flag": "ua",
+			"team": "E4",
 			"opponent": "nvc",
+			"opponent_flag": "ua",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/Luminus/84eeaad4-c404-11e3-9674-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/638417dc-c407-11e3-9674-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/e87315fa-c408-11e3-9674-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/2169088a-c40c-11e3-9674-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/2c88467a-c40e-11e3-9674-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/84eeaad4-c404-11e3-9674-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/638417dc-c407-11e3-9674-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/e87315fa-c408-11e3-9674-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/2169088a-c40c-11e3-9674-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/2c88467a-c40e-11e3-9674-00259031fd90/tdm/1"
 			]
-		},		
+		},
 		{
 			"date": "06.04.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "(....",
+				"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-	                         "http://www.quakelive.com/r/profile/matches/Luminus/b0eed9e0-bdc6-11e3-b189-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/11127946-bdca-11e3-b189-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/matches/Luminus/e4b332ce-bdcd-11e3-b189-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/b0eed9e0-bdc6-11e3-b189-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/11127946-bdca-11e3-b189-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/Luminus/e4b332ce-bdcd-11e3-b189-00259031fd90/tdm/1"
 			]
 		},
 		{
 			"date": "05.04.2014",
-			"flag": "ru",
+			"team": "E4",
 			"opponent": "Mix",
+			"opponent_flag": "ru",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/summary/Luminus/74437f2c-bcfa-11e3-983f-00259031fd90/tdm/1",
-			         "http://www.quakelive.com/r/profile/summary/Luminus/99a40612-bcfd-11e3-983f-00259031fd90/tdm/1",
-				 "http://www.quakelive.com/r/profile/summary/Luminus/e16db99a-bd00-11e3-983f-00259031fd90/tdm/1",
-			         "http://www.quakelive.com/r/profile/summary/Luminus/0ee15f6e-bd04-11e3-983f-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/summary/Luminus/74437f2c-bcfa-11e3-983f-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/summary/Luminus/99a40612-bcfd-11e3-983f-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/summary/Luminus/e16db99a-bd00-11e3-983f-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/summary/Luminus/0ee15f6e-bd04-11e3-983f-00259031fd90/tdm/1"
 			]
 		},
 		{
 			"date": "03.04.2014",
-			"flag": "se",
+			"team": "E4",
 			"opponent": "[nEu]",
+			"opponent_flag": "se",
 			"league": "official",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/krysa/135cdc1a-bb67-11e3-8d7b-00259031fd90/tdm/1",
-			         "http://www.quakelive.com/r/profile/matches/krysa/ab51d650-bb68-11e3-8d7b-00259031fd90/tdm/1"
-			]      
+				"http://www.quakelive.com/r/profile/matches/krysa/135cdc1a-bb67-11e3-8d7b-00259031fd90/tdm/1",
+				"http://www.quakelive.com/r/profile/matches/krysa/ab51d650-bb68-11e3-8d7b-00259031fd90/tdm/1"
+			]
 		},
 		{
 			"date": "01.04.2014",
-			"flag": "ua",
+			"team": "E4",
 			"opponent": "nvc",
+			"opponent_flag": "ua",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-			         "http://www.quakelive.com/r/profile/matches/Luminus/8f9c3840-b9d5-11e3-a611-00259031fd90/tdm/1"
+				"http://www.quakelive.com/r/profile/matches/Luminus/8f9c3840-b9d5-11e3-a611-00259031fd90/tdm/1"
 			]
 		},
 		{
 			"date": "26.03.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "[TE]",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -287,8 +303,9 @@
 		},
 		{
 			"date": "25.03.2014",
-			"flag": "se",
+			"team": "E4",
 			"opponent": "[nEu]",
+			"opponent_flag": "se",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "draw",
@@ -300,8 +317,9 @@
 		},
 		{
 			"date": "24.03.2014",
-			"flag": "pl",
+			"team": "E4",
 			"opponent": "dx-",
+			"opponent_flag": "pl",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -313,8 +331,9 @@
 		},
 		{
 			"date": "24.03.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "[TE]",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -327,8 +346,9 @@
 		},
 		{
 			"date": "17.03.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "[twg]",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -339,8 +359,9 @@
 		},
 		{
 			"date": "04.03.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "l0w/-",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "lost",
@@ -353,8 +374,9 @@
 		},
 		{
 			"date": "26.02.2014",
-			"flag": "hu",
+			"team": "E4",
 			"opponent": "HUN",
+			"opponent_flag": "hu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -365,8 +387,9 @@
 		},
 		{
 			"date": "24.02.2014",
-			"flag": "se",
+			"team": "E4",
 			"opponent": "Mix",
+			"opponent_flag": "se",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -379,8 +402,9 @@
 		},
 		{
 			"date": "22.02.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "[HC]",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
@@ -392,8 +416,9 @@
 		},
 		{
 			"date": "20.02.2014",
-			"flag": "fr",
+			"team": "E4",
 			"opponent": "FRA",
+			"opponent_flag": "fr",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "draw",
@@ -405,8 +430,9 @@
 		},
 		{
 			"date": "17.02.2014",
-			"flag": "eu",
+			"team": "E4",
 			"opponent": "Mix",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
