@@ -11,7 +11,7 @@
 					</li>
 					<% }); %>
 				</ul>
-			</div></script><script type=text/template id=template-matches><div class="matches">
+			</div></script><script type="text/template" id="template-matches"><div class="matches">
 				<strong>Official</strong>
 				<ul>
 					<% _.forEach(matchesByLeague.official, function(match) { if (!match.hidden) { %>
@@ -19,11 +19,11 @@
 						<p class="teams">
 							<span class="team">
 								<span class="flag e4"></span>
-								E4
+								<%= match.team %>
 							</span>
 							vs
 							<span class="team">
-								<span class="flag <%= match.flag %>"></span>
+								<span class="flag <%= match.opponent_flag %>"></span>
 								<%= match.opponent %>
 							</span>
 						</p>
@@ -51,11 +51,11 @@
 						<p class="teams">
 							<span class="team">
 								<span class="flag e4"></span>
-								E4
+								<%= match.team %>
 							</span>
 							vs
 							<span class="team">
-								<span class="flag <%= match.flag %>"></span>
+								<span class="flag <%= match.opponent_flag %>"></span>
 								<%= match.opponent %>
 							</span>
 						</p>
