@@ -52,3 +52,22 @@ do (window, $, _, moment) ->
 				if isActive
 					$content.html(content[href]).slideDown()
 					init[href]()
+
+		$(document).on 'click', '.matches-prev, .matches-next', ->
+			list = $(this).parent().children('ul')[0]
+			$scrollLeft = $(this).parent().children '.matches-prev'
+			$scrollRight = $(this).parent().children '.matches-next'
+			direction = if $(this).hasClass('matches-next') then 'right' else 'left'
+			if !$(this).hasClass 'disabled'
+				offset = if direction is 'right' then '+=300px' else '-=300px'
+				if direction is 'right'
+					$scrollLeft.removeClass 'disabled'
+				else
+					$scrollRight.removeClass 'disabled'
+				$(list).animate {scrollLeft: offset}, 500, ->
+					if list.scrollLeft + list.offsetWidth >= list.scrollWidth
+						$scrollRight.addClass 'disabled'
+					if list.scrollLeft <= 0
+						$scrollLeft.addClass 'disabled'
+			else
+
