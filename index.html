@@ -11,70 +11,78 @@
 					</li>
 					<% }); %>
 				</ul>
-			</div></script><script type="text/template" id="template-matches"><div class="matches">
+			</div></script><script type=text/template id=template-matches><div class="matches">
 				<strong>Official</strong>
-				<ul>
-					<% _.forEach(matchesByLeague.official, function(match) { if (!match.hidden) { %>
-					<li class="match <%= match.league.toLowerCase() %>">
-						<p class="teams">
-							<span class="team">
-								<span class="flag e4"></span>
-								<%= match.team %>
-							</span>
-							vs
-							<span class="team">
-								<span class="flag <%= match.opponent_flag %>"></span>
-								<%= match.opponent %>
-							</span>
-						</p>
-						<p class="date">
-							<time><%= match.date %></time>
-						</p>
-						<p class="result <%= match.result %>">
-							<span class="result-link"><%= match.result %></span>
-						</p>
-						<p class="details">
-							<% if (match.details && match.details.length) { %>
-								<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
-							<% } else { %>
-								no results
-							<% } %>
-						</p>
-					</li>
-					<% }}); %>
-				</ul>
+				<div class="list">
+					<div class="matches-prev disabled">◄</div>
+					<ul>
+						<% _.forEach(matchesByLeague.official, function(match) { if (!match.hidden) { %>
+						<li class="match <%= match.league.toLowerCase() %>">
+							<p class="teams">
+								<span class="team">
+									<%= match.team %>
+									<span class="flag e4"></span>
+								</span>
+								vs
+								<span class="team">
+									<span class="flag <%= match.opponent_flag %>"></span>
+									<%= match.opponent %>
+								</span>
+							</p>
+							<p class="date">
+								<time><%= match.date %></time>
+							</p>
+							<p class="result <%= match.result %>">
+								<span class="result-link"><%= match.result %></span>
+							</p>
+							<p class="details">
+								<% if (match.details && match.details.length) { %>
+									<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
+								<% } else { %>
+									no results
+								<% } %>
+							</p>
+						</li>
+						<% }}); %>
+					</ul>
+					<div class="matches-next">►</div>
+				</div>
 				<hr>
 				<strong>Practice</strong>
-				<ul>
-					<% _.forEach(matchesByLeague.pcw, function(match) { if (!match.hidden) { %>
-					<li class="match <%= match.league.toLowerCase() %>">
-						<p class="teams">
-							<span class="team">
-								<span class="flag e4"></span>
-								<%= match.team %>
-							</span>
-							vs
-							<span class="team">
-								<span class="flag <%= match.opponent_flag %>"></span>
-								<%= match.opponent %>
-							</span>
-						</p>
-						<p class="date">
-							<time><%= match.date %></time>
-						</p>
-						<p class="result <%= match.result %>">
-							<span class="result-link"><%= match.result %></span>
-						</p>
-						<p class="details">
-							<% if (match.details && match.details.length) { %>
-								<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
-							<% } else { %>
-								no results
-							<% } %>
-						</p>
-					</li>
-					<% }}); %>
-				</ul>
+				<div class="list">
+					<div class="matches-prev disabled">◄</div>
+					<ul>
+						<% _.forEach(matchesByLeague.pcw, function(match) { if (!match.hidden) { %>
+						<li class="match <%= match.league.toLowerCase() %>">
+							<p class="teams">
+								<span class="team">
+									<%= match.team %>
+									<span class="flag e4"></span>
+								</span>
+								vs
+								<span class="team">
+									<span class="flag <%= match.opponent_flag %>"></span>
+									<%= match.opponent %>
+								</span>
+							</p>
+							<p class="date">
+								<time><%= match.date %></time>
+							</p>
+							<p class="result <%= match.result %>">
+								<span class="result-link"><%= match.result %></span>
+							</p>
+							<p class="details">
+								<% if (match.details && match.details.length) { %>
+									<% var links = []; _.forEach(match.details, function(link, index) { links.push('<a href="'+link+'" class="link" target="blank">map '+(index+1)+'</a>'); }); %><%= links.join(', ') %>
+								<% } else { %>
+									no results
+								<% } %>
+							</p>
+						</li>
+						<% }}); %>
+					</ul>
+					<div class="matches-next">►</div>
+				</div>
 			</div></script><script type=text/template id=template-about><div class="about">
 				<strong>Contacts</strong>
 				<p class="contacts"><%= about.contacts %></p>

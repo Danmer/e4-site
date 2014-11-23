@@ -1,16 +1,6 @@
 {
 	"members": [
 		{
-			"avatar": "debtorr.jpg",
-			"flag": "cz",
-			"coutry": "Czech",
-			"city": "Frydek-Mistek",
-			"nick": "debtorr",
-			"name": "Vojtech",
-			"birth": "06.04.1991",
-			"role": "Leader"
-		},
-		{
 			"avatar": "doz3r.jpg",
 			"flag": "de",
 			"coutry": "Germany",
@@ -19,36 +9,6 @@
 			"name": "Marcel",
 			"birth": "17.01.1978",
 			"role": "Manager"
-		},
-		{
-			"avatar": "flatecek.jpg",
-			"flag": "cz",
-			"coutry": "Czech",
-			"city": "Prague",
-			"nick": "flatecek",
-			"name": "Tomas",
-			"birth": "03.06.1987",
-			"role": "Member"
-		},
-		{
-			"avatar": "fragma.jpg",
-			"flag": "cz",
-			"coutry": "Czech",
-			"city": "Libcice",
-			"nick": "Fragma",
-			"name": "Lukas",
-			"birth": "01.10.1989",
-			"role": "Member"
-		},
-		{
-			"avatar": "h8m3.jpg",
-			"flag": "ru",
-			"coutry": "Russia",
-			"city": "Moscow",
-			"nick": "h8m3",
-			"name": "Andrey",
-			"birth": "18.10.1990",
-			"role": "Member"
 		},
 		{
 			"avatar": "luminus.jpg",
@@ -61,6 +21,36 @@
 			"role": "Member"
 		},
 		{
+			"avatar": "nnewone.jpg",
+			"flag": "hu",
+			"coutry": "Hungary",
+			"city": "Pecs",
+			"nick": "nnewone",
+			"name": "Peter",
+			"birth": "14.05.1987",
+			"role": "Member"
+		},
+		{
+			"avatar": "nopic.jpg",
+			"flag": "pl",
+			"coutry": "Poland",
+			"city": "unknown",
+			"nick": "noobakillah",
+			"name": "David",
+			"birth": "unknown",
+			"role": "Member"
+		},
+		{
+			"avatar": "s8n.jpg",
+			"flag": "no",
+			"coutry": "Norway",
+			"city": "Flekkefjord",
+			"nick": "s8n",
+			"name": "Chris",
+			"birth": "31.08.1981",
+			"role": "Member"
+		},
+		{
 			"avatar": "sephis.jpg",
 			"flag": "ch",
 			"coutry": "Switzerland",
@@ -69,77 +59,74 @@
 			"name": "Matia",
 			"birth": "19.02.1993",
 			"role": "Member"
-		},
-		{
-			"avatar": "tyke.jpg",
-			"flag": "cz",
-			"coutry": "Czech",
-			"city": "Brno",
-			"nick": "TykE",
-			"name": "Tomas",
-			"birth": "20.06.1988",
-			"role": "Member"
 		}
 	],
 	"matches": [
 		{
-			"date": "25.05.2014",
-			"team": "E4",
-			"opponent": "aCt",
-			"opponent_flag": "eu",
-			"league": "official",
-			"type": "4v4",
-			"result": "open",
-			"hidden": false,
-			"details": []
-		},
-		{
-			"date": "11.05.2014",
-			"team": "E4",
-			"opponent": "[nEu]",
-			"opponent_flag": "se",
-			"league": "official",
-			"type": "4v4",
-			"result": "open",
-			"hidden": false,
-			"details": []
-		},
-		{
-			"date": "08.05.2014",
-			"team": "E4",
+			"date": "19.11.2014",
+			"team": "PCW",
 			"opponent": "102",
 			"opponent_flag": "ru",
-			"league": "official",
+			"league": "PCW",
 			"type": "4v4",
-			"result": "open",
+			"result": "lost",
 			"hidden": false,
-			"details": []
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/19.11.14_PCW_vs_102_Tornado.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/19.11.14_PCW_vs_102_HiddenFortress.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/19.11.14_PCW_vs_102_Purgatory.jpg"
+	          	]
 		},
 		{
-			"date": "04.05.2014",
-			"team": "E4",
-			"opponent": "ukn-",
-			"opponent_flag": "eu",
-			"league": "official",
+			"date": "13.11.2014",
+			"team": "PCW",
+			"opponent": "Mix",
+			"opponent_flag": "ru",
+			"league": "PCW",
 			"type": "4v4",
-			"result": "open",
+			"result": "win",
 			"hidden": false,
-			"details": []
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/13.11.14_PCW_vs_Mix_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/13.11.14_PCW_vs_Mix_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/13.11.14_PCW_vs_Mix_HiddenFortress.jpg",
+	                         "http://wcm.kreasys.net/images/results/pcw/13.11.14_PCW_vs_Mix_Limbus.jpg"
+		        ]
 		},
 		{
-			"date": "01.05.2014",
-			"team": "E4",
-			"opponent": "dx-",
-			"opponent_flag": "pl",
-			"league": "official",
+			"date": "10.11.2014",
+			"team": "PCW",
+			"opponent": "Mix",
+			"opponent_flag": "ru",
+			"league": "PCW",
 			"type": "4v4",
-			"result": "open",
+			"result": "lost",
 			"hidden": false,
-			"details": []
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/10.11.14_PCW_vs_Mix_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/10.11.14_PCW_vs_Mix_Limbus.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/10.11.14_PCW_vs_Mix_DreadfulPlace.jpg"
+	                ]
 		},
 		{
-			"date": "28.04.2014",
-			"team": "E4",
+			"date": "08.11.2014",
+			"team": "PCW",
+			"opponent": "planB",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/08.11.14_PCW_vs_planB_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/08.11.14_PCW_vs_planB_HiddenFortress.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/08.11.14_PCW_vs_planB_DreadfulPlace.jpg",
+	                         "http://wcm.kreasys.net/images/results/pcw/08.11.14_PCW_vs_planB_Limbus.jpg"
+			]
+		},
+		{
+			"date": "05.11.2014",
+			"team": "HoQ",
 			"opponent": "102",
 			"opponent_flag": "ru",
 			"league": "official",
@@ -147,28 +134,28 @@
 			"result": "lost",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/luminus/f66ca404-cf0d-11e3-a9e8-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/luminus/5e4cec1a-cf12-11e3-a9e8-00259031fd90/tdm/1"
-			]
+			         "http://wcm.kreasys.net/images/results/official/05.11.14_HoQ_vs_102_DreadfulPlace.jpg",
+			         "http://wcm.kreasys.net/images/results/official/05.11.14_HoQ_vs_102_Limbus.jpg"
+	                ]
 		},
 		{
-			"date": "24.04.2014",
-			"team": "E4",
-			"opponent": "aCt",
-			"opponent_flag": "eu",
-			"league": "official",
+			"date": "30.10.2014",
+			"team": "PCW",
+			"opponent": "planB",
+			"opponent_flag": "ru",
+			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/summary/luminus/29227bd6-cbde-11e3-b88b-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/luminus/98880732-cbe0-11e3-b88b-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/luminus/dbe01184-cbe3-11e3-b88b-00259031fd90/tdm/1"
-			]
+			         "http://wcm.kreasys.net/images/results/pcw/30.10.14_PCW_vs_planB_DreadfulPlace.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/30.10.14_PCW_vs_planB_Tornado.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/30.10.14_PCW_vs_planB_Limbus.jpg"
+	                ]
 		},
 		{
-			"date": "22.04.2014",
-			"team": "E4",
+			"date": "30.10.2014",
+			"team": "PCW",
 			"opponent": "Of.",
 			"opponent_flag": "se",
 			"league": "PCW",
@@ -176,15 +163,370 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/db70e0a8-ca4d-11e3-9aa5-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/9a53d266-ca51-11e3-9aa5-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/df490abe-ca54-11e3-9aa5-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/f30f8930-ca57-11e3-9aa5-00259031fd90/tdm/1"
-                    	]
+			         "http://wcm.kreasys.net/images/results/pcw/30.10.14_PCW_vs_Onfire_GrimDungeons.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/30.10.14_PCW_vs_Onfire_Purgatory.jpg"
+	                ]
 		},
 		{
-			"date": "17.04.2014",
-			"team": "E4",
+			"date": "16.10.2014",
+			"team": "HoQ",
+			"opponent": "Of.",
+			"opponent_flag": "se",
+			"league": "official",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/16.10.14_HoQ_Onfire_vs_e4_Limbus.jpg",
+			         "http://wcm.kreasys.net/images/results/official/16.10.14_HoQ_Onfire_vs_e4_Purgatory.jpg"
+	                ]
+		},
+		{
+			"date": "15.10.2014",
+			"team": "PCW",
+			"opponent": "planB",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/15.10.14_PCW_vs_planB_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/15.10.14_PCW_vs_planB_Limbus.jpg",
+	                         "http://wcm.kreasys.net/images/results/pcw/15.10.14_PCW_vs_planB_Tornado.jpg",
+                                 "http://wcm.kreasys.net/images/results/pcw/15.10.14_PCW_vs_planB_DreadfulPlace.jpg"
+			]
+		},
+		{
+			"date": "13.10.2014",
+			"team": "PCW",
+			"opponent": "Of.",
+			"opponent_flag": "se",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/13.10.14_PCW_vs_Onfire_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/13.10.14_PCW_vs_Onfire_HiddenFortress.jpg",
+	                         "http://wcm.kreasys.net/images/results/pcw/13.10.14_PCW_vs_Onfire_Limbus.jpg",
+                                 "http://wcm.kreasys.net/images/results/pcw/13.10.14_PCW_vs_Onfire_DreadfulPlace.jpg"
+			]
+		},
+		{
+			"date": "09.10.2014",
+			"team": "HoQ",
+			"opponent": "aCt",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/09.10.14_HoQ_aCtion_vs_e4_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/official/09.10.14_HoQ_aCtion_vs_e4_GrimDungeons.jpg",
+	                         "http://wcm.kreasys.net/images/results/official/09.10.14_HoQ_aCtion_vs_e4_Tornado.jpg"
+                        ]
+		},
+		{
+			"date": "14.09.2014",
+			"team": "PCW",
+			"opponent": "(....",
+			"opponent_flag": "eu",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/14.09.14_PCW_vs_Pacmen_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/14.09.14_PCW_vs_Pacmen_Limbus.jpg"
+	                ]
+		},
+		{
+			"date": "31.08.2014",
+			"team": "ESH",
+			"opponent": "le+",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_le+_Campgrounds.jpg",
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_le+_AlmostLost.jpg",
+	                         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_le+_Bloodrun.jpg"
+			]
+		},
+		{
+			"date": "31.08.2014",
+			"team": "ESH",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "official",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_102_Bloodrun.jpg",
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_102_Campgrounds.jpg"
+			]
+		},
+		{
+			"date": "31.08.2014",
+			"team": "ESH",
+			"opponent": "le+",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_le_Bloodrun.jpg",
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_le_AlmostLost.jpg"
+			]
+		},
+		{
+			"date": "31.08.2014",
+			"team": "ESH",
+			"opponent": "idC",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_idc_Bloodrun.jpg",
+			         "http://wcm.kreasys.net/images/results/official/31.08.14_ESH_vs_idc_Campgrounds.jpg"
+			]
+		},
+		{
+			"date": "24.08.2014",
+			"team": "PCW",
+			"opponent": "Of.",
+			"opponent_flag": "se",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/24.08.14_PCW_vs_Of_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/24.08.14_PCW_vs_Of_DreadfulPlace.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/24.08.14_PCW_vs_Of_Limbus.jpg"
+			]
+		},
+		{
+			"date": "17.08.2014",
+			"team": "ESH",
+			"opponent": "rekt*",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_rekt_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_rekt_Campgrounds.jpg"
+			]
+		},
+		{
+			"date": "17.08.2014",
+			"team": "ESH",
+			"opponent": "Kalle",
+			"opponent_flag": "se",
+			"league": "official",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_Kalle_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_Kalle_Bloodrun.jpg"
+			]
+		},
+		{
+			"date": "17.08.2014",
+			"team": "ESH",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "official",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_102_Bloodrun.jpg",
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_102_AlmostLost.jpg"
+			]
+		},
+		{
+			"date": "17.08.2014",
+			"team": "ESH",
+			"opponent": "Coke",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_Coke_Bloodrun.jpg",
+			         "http://wcm.kreasys.net/images/results/official/17.08.14_ESH_vs_Coke_AlmostLost.jpg"
+			]
+		},
+		{
+			"date": "17.08.2014",
+			"team": "PCW",
+			"opponent": "Kalle",
+			"opponent_flag": "se",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/17.08.14_PCW_vs_Kalle_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/17.08.14_PCW_vs_Kalle_Bloodrun.jpg"
+			]
+		},
+		{
+			"date": "16.08.2014",
+			"team": "PCW",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/16.08.14_PCW_vs_102_Campgrounds.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/16.08.14_PCW_vs_102_Bloodrun.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/16.08.14_PCW_vs_102_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/16.08.14_PCW_vs_102_HiddenFortress.jpg"
+			]
+		},
+		{
+			"date": "15.08.2014",
+			"team": "PCW",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/15.08.14_PCW_vs_102_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/15.08.14_PCW_vs_102_Campgrounds.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/15.08.14_PCW_vs_102_Bloodrun.jpg"
+			]
+		},
+		{
+			"date": "03.08.2014",
+			"team": "PCW",
+			"opponent": "CZE",
+			"opponent_flag": "cz",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/03.08.14_PCW_vs_CZE_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/03.08.14_PCW_vs_CZE_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/03.08.14_PCW_vs_CZE_Limbus.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/03.08.14_PCW_vs_CZE_GrimDungeons.jpg",
+                                 "http://wcm.kreasys.net/images/results/pcw/03.08.14_PCW_vs_CZE_HiddenFortress.jpg"
+			]
+                },
+		{
+			"date": "01.08.2014",
+			"team": "PCW",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/01.08.14_PCW_vs_102_AlmostLost.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/01.08.14_PCW_vs_102_Campgrounds.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/01.08.14_PCW_vs_102_Bloodrun.jpg"
+
+			]
+		},
+		{
+			"date": "31.07.2014",
+			"team": "PCW",
+			"opponent": "CZE",
+			"opponent_flag": "cz",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/31.07.14_PCW_vs_CZE_Bloodrun1.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/31.07.14_PCW_vs_CZE_AlmostLost.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/31.07.14_PCW_vs_CZE_Bloodrun.jpg"
+
+			]
+		},
+		{
+			"date": "30.07.2014",
+			"team": "PCW",
+			"opponent": "planB",
+			"opponent_flag": "ru",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/30.07.14_PCW_vs_planB_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/30.07.14_PCW_vs_planB_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/30.07.14_PCW_vs_planB_Limbus.jpg"
+			]
+		},
+		{
+			"date": "27.07.2014",
+			"team": "PCW",
+			"opponent": "(....",
+			"opponent_flag": "eu",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/27.07.14_PCW_vs_Pacmen_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/27.07.14_PCW_vs_Pacmen_DreadfulPlace.jpg"
+			]
+		},
+		{
+			"date": "23.07.2014",
+			"team": "PCW",
+			"opponent": "CZE",
+			"opponent_flag": "cz",
+			"league": "PCW",
+			"type": "2v2",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/23.07.14_PCW_vs_CZE_Bloodrun1.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/23.07.14_PCW_vs_CZE_AlmostLost.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/23.07.14_PCW_vs_CZE_Bloodrun.jpg"
+
+			]
+		},
+		{
+			"date": "14.07.2014",
+			"team": "PCW",
+			"opponent": "POL",
+			"opponent_flag": "pl",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/14.07.14_PCW_vs_POL_HiddenFortress.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/14.07.14_PCW_vs_POL_Purgatory.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/14.07.14_PCW_vs_POL_Limbus.jpg"
+			]
+		},
+		{
+			"date": "23.06.2014",
+			"team": "ESH",
 			"opponent": "ukn-",
 			"opponent_flag": "eu",
 			"league": "official",
@@ -192,75 +534,102 @@
 			"result": "lost",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/5247e212-c670-11e3-92f1-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/e9a73364-c671-11e3-92f1-00259031fd90/tdm/1"
+			         "http://wcm.kreasys.net/images/results/official/23.06.14_ESH_final_ukn_vs_e4_Limbus.jpg",
+			         "http://wcm.kreasys.net/images/results/official/23.06.14_ESH_final_ukn_vs_e4_DreadfulPlace.jpg",
+			         "http://wcm.kreasys.net/images/results/official/23.06.14_ESH_final_ukn_vs_e4_HiddenFortress.jpg",
+			         "http://wcm.kreasys.net/images/results/official/23.06.14_ESH_final_ukn_vs_e4_Purgatory.jpg"
 			]
 		},
 		{
-			"date": "17.04.2014",
-			"team": "E4",
-			"opponent": "(....",
-				"opponent_flag": "eu",
-			"league": "PCW",
-			"type": "4v4",
-			"result": "draw",
-			"hidden": false,
-			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/d5b2d8e8-c669-11e3-92f1-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/013a653c-c66d-11e3-92f1-00259031fd90/tdm/1"
-			]
-		},
-		{
-			"date": "14.04.2014",
-			"team": "E4",
-			"opponent": "nvc",
-			"opponent_flag": "ua",
+			"date": "22.06.2014",
+			"team": "PCW",
+			"opponent": "Of.",
+			"opponent_flag": "se",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/84eeaad4-c404-11e3-9674-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/638417dc-c407-11e3-9674-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/e87315fa-c408-11e3-9674-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2169088a-c40c-11e3-9674-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2c88467a-c40e-11e3-9674-00259031fd90/tdm/1"
+			         "http://wcm.kreasys.net/images/results/pcw/22.06.14_PCW_vs_Onfire_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/22.06.14_PCW_vs_Onfire_Purgatory.jpg"
 			]
 		},
 		{
-			"date": "06.04.2014",
-			"team": "E4",
-			"opponent": "(....",
-				"opponent_flag": "eu",
-			"league": "PCW",
-			"type": "4v4",
-			"result": "lost",
-			"hidden": false,
-			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/b0eed9e0-bdc6-11e3-b189-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/11127946-bdca-11e3-b189-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/e4b332ce-bdcd-11e3-b189-00259031fd90/tdm/1"
-			]
-		},
-		{
-			"date": "05.04.2014",
-			"team": "E4",
-			"opponent": "Mix",
+			"date": "17.06.2014",
+			"team": "ESH",
+			"opponent": "102",
 			"opponent_flag": "ru",
+			"league": "official",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/17.06.14_ESH_playoffs_102_vs_e4_Purgatory.jpg",
+				 "http://wcm.kreasys.net/images/results/official/17.06.14_ESH_playoffs_102_vs_e4_Limbus.jpg"
+			]
+		},
+		{
+			"date": "10.06.2014",
+			"team": "PCW",
+			"opponent": "Mix",
+			"opponent_flag": "eu",
 			"league": "PCW",
 			"type": "4v4",
 			"result": "lost",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/summary/Luminus/74437f2c-bcfa-11e3-983f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/Luminus/99a40612-bcfd-11e3-983f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/Luminus/e16db99a-bd00-11e3-983f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/Luminus/0ee15f6e-bd04-11e3-983f-00259031fd90/tdm/1"
+			         "http://wcm.kreasys.net/images/results/pcw/10.06.14_PCW_vs_Mix_Purgatory.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/10.06.14_PCW_vs_Mix_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/10.06.14_PCW_vs_Mix_Limbus.jpg",
+			         "http://wcm.kreasys.net/images/results/pcw/10.06.14_PCW_vs_Mix_HiddenFortress.jpg"
 			]
 		},
 		{
-			"date": "03.04.2014",
-			"team": "E4",
+			"date": "08.06.2014",
+			"team": "PCW",
+			"opponent": "Mix",
+			"opponent_flag": "eu",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/08.06.14_PCW_vs_Mix_Purgatory.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/08.06.14_PCW_vs_Mix_HiddenFortress.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/08.06.14_PCW_vs_Mix_Limbus.jpg"
+			]
+		},
+		{
+			"date": "05.06.2014",
+			"team": "PCW",
+			"opponent": "Mix",
+			"opponent_flag": "eu",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/05.06.14_PCW_vs_Mix_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/05.06.14_PCW_vs_Mix_Limbus.jpg"
+			]
+		},
+		{
+			"date": "01.06.2014",
+			"team": "PCW",
+			"opponent": "Of.",
+			"opponent_flag": "se",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "draw",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/01.06.14_PCW_vs_Onfire_Limbus.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/01.06.14_PCW_vs_Onfire_Purgatory.jpg"
+			]
+		},
+		{
+			"date": "01.06.2014",
+			"team": "ESH",
 			"opponent": "[nEu]",
 			"opponent_flag": "se",
 			"league": "official",
@@ -268,13 +637,128 @@
 			"result": "lost",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/krysa/135cdc1a-bb67-11e3-8d7b-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/krysa/ab51d650-bb68-11e3-8d7b-00259031fd90/tdm/1"
+			         "http://wcm.kreasys.net/images/results/official/01.06.14_ESH_nEu_vs_e4_Purgatory.jpg",
+				 "http://wcm.kreasys.net/images/results/official/01.06.14_ESH_nEu_vs_e4_GrimDungeons.jpg"
 			]
 		},
 		{
-			"date": "01.04.2014",
-			"team": "E4",
+			"date": "19.05.2014",
+			"team": "HoQ",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/19.05.14_HoQ_102_vs_e4_Limbus.jpg",
+				 "http://wcm.kreasys.net/images/results/official/19.05.14_HoQ_102_vs_e4_DreadfulPlace.jpg"
+			]
+		},
+		{
+			"date": "04.05.2014",
+			"team": "ESH",
+			"opponent": "ukn-",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/official/04.05.14_ESH_ukn_vs_e4_DeepInside.jpg",
+				 "http://wcm.kreasys.net/images/results/official/04.05.14_ESH_ukn_vs_e4_Limbus.jpg"
+			]
+		},
+		{
+			"date": "01.05.2014",
+			"team": "PCW",
+			"opponent": "Skllz",
+			"opponent_flag": "ua",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "draw",
+			"hidden": false,
+			"details": [
+			         "http://wcm.kreasys.net/images/results/pcw/01.05.14_PCW_vs_Skillz_DreadfulPlace.jpg",
+				 "http://wcm.kreasys.net/images/results/pcw/01.05.14_PCW_vs_Skillz_Limbus.jpg"
+			]
+         	},
+		{
+			"date": "28.04.2014",
+			"team": "ESH",
+			"opponent": "102",
+			"opponent_flag": "ru",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/official/28.04.14_ESH_102_vs_e4_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/official/28.04.14_ESH_102_vs_e4_Limbus.jpg"
+			]
+		},
+		{
+			"date": "24.04.2014",
+			"team": "HoQ",
+			"opponent": "aCt",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/official/24.04.14_HoQ_aCt_vs_e4_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/official/24.04.14_HoQ_aCt_vs_e4_HiddenFortress.jpg",
+				"http://wcm.kreasys.net/images/results/official/24.04.14_HoQ_aCt_vs_e4_DreadfulPlace.jpg"
+			]
+		},
+		{
+			"date": "22.04.2014",
+			"team": "PCW",
+			"opponent": "Of.",
+			"opponent_flag": "se",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "win",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/pcw/22.04.14_PCW_vs_Onfire_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/22.04.14_PCW_vs_Onfire_DreadfulPlace.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/22.04.14_PCW_vs_Onfire_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/22.04.14_PCW_vs_Onfire_DeepInside.jpg"
+                    	]
+		},
+		{
+			"date": "17.04.2014",
+			"team": "HoQ",
+			"opponent": "ukn-",
+			"opponent_flag": "eu",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/official/17.04.14_HoQ_ukn_vs_e4_DeepInside.jpg",
+				"http://wcm.kreasys.net/images/results/official/17.04.14_HoQ_ukn_vs_e4_Limbus.jpg"
+			]
+		},
+		{
+			"date": "17.04.2014",
+			"team": "PCW",
+			"opponent": "(....",
+			"opponent_flag": "eu",
+			"league": "PCW",
+			"type": "4v4",
+			"result": "draw",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/pcw/17.04.14_PCW_vs_Pacmen_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/17.04.14_PCW_vs_Pacmen_Purgatory.jpg"
+			]
+		},
+		{
+			"date": "14.04.2014",
+			"team": "PCW",
 			"opponent": "nvc",
 			"opponent_flag": "ua",
 			"league": "PCW",
@@ -282,12 +766,30 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/8f9c3840-b9d5-11e3-a611-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/14.04.14_PCW_vs_nvc_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/14.04.14_PCW_vs_nvc_HiddenFortress.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/14.04.14_PCW_vs_nvc_DreadfulPlace.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/14.04.14_PCW_vs_nvc_Tornado.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/14.04.14_PCW_vs_nvc_Limbus.jpg"
+			]
+		},
+		{
+			"date": "03.04.2014",
+			"team": "HoQ",
+			"opponent": "[nEu]",
+			"opponent_flag": "se",
+			"league": "official",
+			"type": "4v4",
+			"result": "lost",
+			"hidden": false,
+			"details": [
+				"http://wcm.kreasys.net/images/results/official/03.04.14_HoQ_nEu_vs_e4_GrimDungeons.jpg",
+				"http://wcm.kreasys.net/images/results/official/03.04.14_HoQ_nEu_vs_e4_Purgatory.jpg"
 			]
 		},
 		{
 			"date": "26.03.2014",
-			"team": "E4",
+			"team": "PCW",
 			"opponent": "[TE]",
 			"opponent_flag": "eu",
 			"league": "PCW",
@@ -295,15 +797,15 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/d1414e90-b51e-11e3-aeb6-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/ee5ce81a-b521-11e3-aeb6-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/b9dc627e-b525-11e3-aeb6-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/91e2870e-b529-11e3-aeb6-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/26.03.14_PCW_vs_TE_GrimDungeons.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/26.03.14_PCW_vs_TE_HiddenFortress.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/26.03.14_PCW_vs_TE_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/26.03.14_PCW_vs_TE_Limbus.jpg"
 			]
 		},
 		{
 			"date": "25.03.2014",
-			"team": "E4",
+			"team": "PCW",
 			"opponent": "[nEu]",
 			"opponent_flag": "se",
 			"league": "PCW",
@@ -311,13 +813,13 @@
 			"result": "draw",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/summary/luminus/3c522576-b464-11e3-a526-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/summary/luminus/8914502a-b467-11e3-a526-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/25.03.14_PCW_vs_nEu_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/25.03.14_PCW_vs_nEu_Limbus.jpg"
 			]
 		},
 		{
 			"date": "24.03.2014",
-			"team": "E4",
+			"team": "PCW",
 			"opponent": "dx-",
 			"opponent_flag": "pl",
 			"league": "PCW",
@@ -325,13 +827,13 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/07011cb6-b39b-11e3-858f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/4820a218-b39e-11e3-858f-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/24.03.14_PCW_vs_dx_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/24.03.14_PCW_vs_dx_HiddenFortress.jpg"
 			]
 		},
 		{
 			"date": "24.03.2014",
-			"team": "E4",
+			"team": "PCW",
 			"opponent": "[TE]",
 			"opponent_flag": "eu",
 			"league": "PCW",
@@ -339,27 +841,14 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/19f4d55c-b390-11e3-858f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/0c3dfa9e-b393-11e3-858f-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/305a95ec-b396-11e3-858f-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/24.03.14_PCW_vs_TE_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/24.03.14_PCW_vs_TE_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/24.03.14_PCW_vs_TE_DreadfulPlace.jpg"
 			]
 		},
 		{
-			"date": "17.03.2014",
-			"team": "E4",
-			"opponent": "[twg]",
-			"opponent_flag": "eu",
-			"league": "PCW",
-			"type": "4v4",
-			"result": "win",
-			"hidden": false,
-			"details": [
-				"http://www.quakelive.com/r/profile/summary/Luminus/7cd567c4-ae0c-11e3-be5a-00259031fd90/tdm/1"
-			]
-		},
-		{
-			"date": "04.03.2014",
-			"team": "E4",
+			"date": "03.03.2014",
+			"team": "PCW",
 			"opponent": "l0w/-",
 			"opponent_flag": "eu",
 			"league": "PCW",
@@ -367,27 +856,14 @@
 			"result": "lost",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/276e1d22-a3d9-11e3-8144-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/b9c17bc8-a3d5-11e3-8144-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/7f693206-a3d3-11e3-8144-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/03.03.14_PCW_vs_l0w_Limbus.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/03.03.14_PCW_vs_l0w_DreadfulPlace.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/03.03.14_PCW_vs_l0w_DeepInside.jpg"
 			]
 		},
 		{
-			"date": "26.02.2014",
-			"team": "E4",
-			"opponent": "HUN",
-			"opponent_flag": "hu",
-			"league": "PCW",
-			"type": "4v4",
-			"result": "win",
-			"hidden": false,
-			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-03-02/35e87a84-9f22-11e3-9a45-00259031fd90/tdm/1"
-			]
-		},
-		{
-			"date": "24.02.2014",
-			"team": "E4",
+			"date": "23.02.2014",
+			"team": "PCW",
 			"opponent": "Mix",
 			"opponent_flag": "se",
 			"league": "PCW",
@@ -395,14 +871,14 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-03-02/46f1c3f2-9d8e-11e3-87fc-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-03-02/6012f330-9d91-11e3-87fc-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-03-02/e694597e-9d93-11e3-87fc-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/23.02.14_PCW_vs_Mix_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/23.02.14_PCW_vs_Mix_HiddenFortress.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/23.02.14_PCW_vs_Mix_GrimDungeons.jpg"
 			]
 		},
 		{
-			"date": "22.02.2014",
-			"team": "E4",
+			"date": "21.02.2014",
+			"team": "PCW",
 			"opponent": "[HC]",
 			"opponent_flag": "eu",
 			"league": "PCW",
@@ -410,13 +886,13 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-23/f2caa004-9bf9-11e3-99ca-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-23/098afd72-9bfd-11e3-99ca-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/21.02.14_PCW_vs_Hools_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/21.02.14_PCW_vs_Hools_DreadfulPlace.jpg"
 			]
 		},
 		{
-			"date": "20.02.2014",
-			"team": "E4",
+			"date": "19.02.2014",
+			"team": "PCW",
 			"opponent": "FRA",
 			"opponent_flag": "fr",
 			"league": "PCW",
@@ -424,13 +900,13 @@
 			"result": "draw",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-23/5eff6b4a-9a6c-11e3-bd99-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-23/d9b5f37e-9a6f-11e3-bd99-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/19.02.14_PCW_vs_FRA_HiddenFortress.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/19.02.14_PCW_vs_FRA_Purgatory.jpg"
 			]
 		},
 		{
-			"date": "17.02.2014",
-			"team": "E4",
+			"date": "16.02.2014",
+			"team": "PCW",
 			"opponent": "Mix",
 			"opponent_flag": "eu",
 			"league": "PCW",
@@ -438,19 +914,22 @@
 			"result": "win",
 			"hidden": false,
 			"details": [
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-23/a68485e0-980f-11e3-a619-00259031fd90/tdm/1",
-				"http://www.quakelive.com/r/profile/matches/Luminus/2014-02-19/e4d995f8-9812-11e3-a619-00259031fd90/tdm/1"
+				"http://wcm.kreasys.net/images/results/pcw/16.02.14_PCW_vs_Mix_Purgatory.jpg",
+				"http://wcm.kreasys.net/images/results/pcw/16.02.14_PCW_vs_Mix_DreadfulPlace.jpg"
 			]
 		}
 	],
 	"about": {
-		"history": "founded Winter 2014",
+		"history": "founded 16/02/2014",
 		"contacts": "<span class=\"flag mail\"></span> <a href=\"mailto:doz3r@gmx.de\">doz3r@gmx.de</a><br><span class=\"flag irc\"></span> <a href=\"irc://irc.quakenet.org/elitefour\">#elitefour</a>",
 		"trophies":
 		{
 			"2014": [
-				"HoQ TDM Season 4 Division 1",
-                                "ESH TDM Spring Season Division 1"
+				"4th Place HoQ TDM 4v4 Spring Season Division 1",
+                                "2nd Place ESH TDM 4v4 Spring Season Division 1",
+				"4th place ESH TDM 2v2 One Night Wonder #18",
+				"3rd place ESH TDM 2v2 One Night Wonder #19",
+				"3rd place HoQ TDM 4v4 Fall Season Division 1"
 				],
 			"2015": []
 		}
